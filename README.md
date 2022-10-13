@@ -1,2 +1,2 @@
 # Elegant-Themes
-Photo Display Website
+Photo Display Website by Thembinkosiii
